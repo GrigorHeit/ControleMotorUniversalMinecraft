@@ -1,0 +1,1 @@
+execute if score Tempo_de_Subida MOTOR matches 6..50 run scoreboard players remove Tempo_de_Subida MOTOR 1

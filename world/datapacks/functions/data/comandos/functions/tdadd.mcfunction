@@ -1,0 +1,1 @@
+execute if score Tempo_de_Descida MOTOR matches 5..49 run scoreboard players add Tempo_de_Descida MOTOR 1

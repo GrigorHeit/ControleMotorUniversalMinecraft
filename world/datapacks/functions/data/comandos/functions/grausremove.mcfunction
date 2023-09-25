@@ -1,0 +1,1 @@
+execute if score Graus MOTOR matches 1..180 run scoreboard players remove Graus MOTOR 1
