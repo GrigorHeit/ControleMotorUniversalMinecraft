@@ -1,6 +1,8 @@
 # ControleMotorUniversalMinecraft
 Controle de um motor universal de dentro do Minecraft
 
+O arquivo server.properties seriam as configurações do servidor que eu criei. Para a comunicação RCON eu utilizei a porta padrão 25575.
+
 O mundo criado e utilizado no projeto é esse arquivo \world e no mapa podem ser encontrados command blocks responsáveis pela criação de cada placa, independente da função, e também para a criação do scoreboard.
 
 As funções de controle dentro do minecraft podem ser encontradas em: \world\datapacks\functions\data\comandos\functions
